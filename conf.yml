@@ -1,0 +1,9 @@
+userid: LOGINOFBTJ
+password: PASSOFBTJ
+games:
+        - id: GAMEID1
+          name: GAMENAME(Optional)
+        - id: GAMEID2
+          name: GAMENAME(Optional)
+lineaccesstoken: LINEACCESSTOKEN
+
