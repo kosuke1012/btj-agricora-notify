@@ -1,5 +1,5 @@
-userid: LOGINOFBTJ
-password: PASSOFBTJ
+userid: LOGIN(Boiteajeux)
+password: PASSWORD(Boiteajeux)
 games:
         - id: GAMEID1
           name: GAMENAME(Optional)
