@@ -1,10 +1,9 @@
 # btj-agricora-notify
-====
 Notify player's turn on [Agricola in Boiteajeux](http://www.boiteajeux.net/jeux/agr/agr_aide_en.php).
 
 ## Requirement
 ### LINE Access Token
-Create LINE Access Token. 
+Create LINE Access Token.  
 <https://notify-bot.line.me/>
 
 ### Install requirments
@@ -14,7 +13,7 @@ Create LINE Access Token.
 replace conf.yml with your userid, password, gameid, and LINE Access Token.
 
 ## Usage
-run main.py
+run main.py  
     $ forever start -c python main.py
 
 ## Licence
