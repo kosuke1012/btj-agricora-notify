@@ -14,6 +14,7 @@ replace conf.yml with your userid, password, gameid, and LINE Access Token.
 
 ## Usage
 run main.py  
+
     $ forever start -c python main.py
 
 ## Licence
